@@ -7,3 +7,5 @@
 .*
 !.gitignore
 *.egg-info
+build
+dist
